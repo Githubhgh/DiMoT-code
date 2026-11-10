@@ -3,7 +3,7 @@
 # DiMoT
 ### Improving the Diffusability of Motion Tokenizer
 
-**NeurIPS 2026 · Spotlight**
+<a href="https://arxiv.org/abs/2611.10160"><img src="https://img.shields.io/badge/NeurIPS_2026-%E2%98%85_Spotlight-F4B942?style=for-the-badge&amp;labelColor=1F2937" alt="NeurIPS 2026 — Spotlight" height="30"></a>
 
 Guanhe Huang\* · Songqiao Han\* · Tangzheng Lian · Oya Celiktutan  
 King's College London · \*Equal contribution
