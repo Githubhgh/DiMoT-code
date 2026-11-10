@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+title: "DiMoT: Improving the Diffusability of Motion Tokenizer"
+type: software
+url: "https://githubhgh.github.io/dimot/"
+repository-code: "https://github.com/Githubhgh/DiMoT-code"
+authors:
+  - family-names: Huang
+    given-names: Guanhe
+  - family-names: Han
+    given-names: Songqiao
+  - family-names: Lian
+    given-names: Tangzheng
+  - family-names: Celiktutan
+    given-names: Oya
+preferred-citation:
+  type: article
+  title: "Improving the Diffusability of Motion Tokenizer"
+  authors:
+    - family-names: Huang
+      given-names: Guanhe
+    - family-names: Han
+      given-names: Songqiao
+    - family-names: Lian
+      given-names: Tangzheng
+    - family-names: Celiktutan
+      given-names: Oya
+  journal: "arXiv preprint arXiv:2611.10160"
+  year: 2026
+  url: "https://arxiv.org/abs/2611.10160"
